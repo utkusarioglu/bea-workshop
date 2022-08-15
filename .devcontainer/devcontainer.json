@@ -5,7 +5,7 @@
     "docker-compose.yml"
   ],
   "service": "jupyter",
-  "workspaceFolder": "utkusarioglu-com/workshops/bea-workshop",
+  "workspaceFolder": "/utkusarioglu-com/workshops/bea-workshop",
   "settings": {
     "workbench.colorCustomizations": {
       "activityBar.background": "#004400"
