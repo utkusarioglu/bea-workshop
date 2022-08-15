@@ -1,11 +1,11 @@
 {
-  "name": "conda-econ-repo-template.templates.utkusarioglu.com",
+  "name": "bea-workshop.workshops.utkusarioglu.com",
   "dockerComposeFile": [
     "../.docker/docker-compose.dev.yml",
     "docker-compose.yml"
   ],
   "service": "jupyter",
-  "workspaceFolder": "utkusarioglu-com/templates/conda-econ-repo-template",
+  "workspaceFolder": "utkusarioglu-com/workshops/bea-workshop",
   "settings": {
     "workbench.colorCustomizations": {
       "activityBar.background": "#004400"
