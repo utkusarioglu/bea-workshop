@@ -4,7 +4,7 @@
     "../.docker/docker-compose.dev.yml",
     "docker-compose.yml"
   ],
-  "service": "jupyter",
+  "service": "bea-workshop",
   "workspaceFolder": "/utkusarioglu-com/workshops/bea-workshop",
   "settings": {
     "workbench.colorCustomizations": {
@@ -14,5 +14,6 @@
   "extensions": [
     "ms-python.python",
     "ms-toolsai.jupyter"
-  ]
+  ],
+  "postCreateCommand": "scripts/post-create-command.sh"
 }
