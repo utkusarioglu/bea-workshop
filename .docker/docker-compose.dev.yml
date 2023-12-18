@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
   bea-workshop:
-    image: utkusarioglu/conda-econ-devcontainer:1.0.10
+    image: utkusarioglu/conda-econ-devcontainer:experiment-feat-music-sequencer-8
     environment:
       PYTHONPATH: /utkusarioglu-com/workshops/bea-workshop
     volumes:

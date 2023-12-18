@@ -1,3 +1,3 @@
 #!/bin/bash
 
-.elam/update-status.sh
+~/elam/elam.sh repo status
